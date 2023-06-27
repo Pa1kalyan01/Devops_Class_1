@@ -1,2 +1,4 @@
 
 This is my first practice commit on git repository.
+
+This is my second practice commit on git repository.
